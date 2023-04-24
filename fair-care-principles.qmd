@@ -1,0 +1,43 @@
+---
+title: "FAIR and CARE"
+format: html
+editor: visual
+---
+
+## Learning Objectives {.unnumbered}
+
+- Introduce FAIR and CARE principles
+- Articulate the purpose and value of making data FAIR
+- Promote social responsibility to open data management practices through CARE
+- Discuss intersection between FAIR and CARE??
+
+
+
+### Intorduction
+### FAIR: Findable | Accesible | Interoperable | Reproducible
+
+**Findable**
+- Articulate what metadata is and how metadata makes data findable
+- Articulate the role of data repositories in enabling findable data
+
+
+**Accesible**
+- 
+
+**Iteroperable**
+- Introduce controlled vocabulary (Show LTER?)
+
+
+**Reusable**
+
+### CARE
+
+**Collective benefit**
+**Authority to control**
+**Responsibility**
+**Ethics**
+
+### Activity
+
+Choose three data sets in EDI or KNB
+Each group explores one and identify key questions on FAIR
